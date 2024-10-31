@@ -6,7 +6,7 @@
   - [Лекция 1. Тестирование](https://www.youtube.com/live/c67zB3FWLOs)
   - [Разбор задач первой лекции](https://www.youtube.com/live/Gk5KrTA5hpQ)
 - Лекция 2:
-  - Лекция 2. Префиксные суммы и два указателя
+  - [Лекция 2. Префиксные суммы и два указателя](https://www.youtube.com/live/B4uP6igiVNU)
   - Разбор задач второй лекции
 - Лекция 3:
   - Лекция 3. Стеки, очереди, деки
@@ -54,6 +54,57 @@
       <td>E. Наибольшее произведение двухчисел (составление тестов)</td>
       <td><a href="contest1/problem_E_description.pdf">Описание</a></td>
       <td><a href="contest1/problem_E.txt">Решение</a></td>
+    </tr>
+    <tr>
+      <td  rowspan=10><a href="contest2">Контест 2</a></td>
+      <td>A. Префиксные суммы</td>
+      <td><a href="contest2/problem_A_description.pdf">Описание</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>B. Сумма номеров</td>
+      <td><a href="contest2/problem_B_description.pdf">Описание</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>C. Город Че</td>
+      <td><a href="contest2/problem_C_description.pdf">Описание</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>D. Лучший отдых</td>
+      <td><a href="contest2/problem_D_description.pdf">Описание</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>E. Удаление медиан</td>
+      <td><a href="contest2/problem_E_description.pdf">Описание</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>F. Сумма тройных произведений</td>
+      <td><a href="contest2/problem_F_description.pdf">Описание</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>G. Цензурное произведение</td>
+      <td><a href="contest2/problem_G_description.pdf">Описание</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>H. Переезд в опенспейс*</td>
+      <td><a href="contest2/problem_H_description.pdf">Описание</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>I. Изучение алгоритмов*</td>
+      <td><a href="contest2/problem_I_description.pdf">Описание</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>J. Решение задач*</td>
+      <td><a href="contest2/problem_J_description.pdf">Описание</a></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
