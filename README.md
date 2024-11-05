@@ -7,7 +7,7 @@
   - [Разбор задач первой лекции](https://www.youtube.com/live/Gk5KrTA5hpQ)
 - Лекция 2:
   - [Лекция 2. Префиксные суммы и два указателя](https://www.youtube.com/live/B4uP6igiVNU)
-  - Разбор задач второй лекции
+  - [Разбор задач второй лекции](https://www.youtube.com/live/T3-4f5SZy3Y)
 - Лекция 3:
   - Лекция 3. Стеки, очереди, деки
   - Разбор задач третьей лекции
@@ -59,52 +59,52 @@
       <td  rowspan=10><a href="contest2">Контест 2</a></td>
       <td>A. Префиксные суммы</td>
       <td><a href="contest2/problem_A_description.pdf">Описание</a></td>
-      <td></td>
+      <td><a href="contest2/problem_A.py">Решение</a></td>
     </tr>
     <tr>
       <td>B. Сумма номеров</td>
       <td><a href="contest2/problem_B_description.pdf">Описание</a></td>
-      <td></td>
+      <td><a href="contest2/problem_B.py">Решение</a></td>
     </tr>
     <tr>
       <td>C. Город Че</td>
       <td><a href="contest2/problem_C_description.pdf">Описание</a></td>
-      <td></td>
+      <td><a href="contest2/problem_C.py">Решение</a></td>
     </tr>
     <tr>
       <td>D. Лучший отдых</td>
       <td><a href="contest2/problem_D_description.pdf">Описание</a></td>
-      <td></td>
+      <td><a href="contest2/problem_D.py">Решение</a></td>
     </tr>
     <tr>
       <td>E. Удаление медиан</td>
       <td><a href="contest2/problem_E_description.pdf">Описание</a></td>
-      <td></td>
+      <td><a href="contest2/problem_E.py">Решение</a></td>
     </tr>
     <tr>
       <td>F. Сумма тройных произведений</td>
       <td><a href="contest2/problem_F_description.pdf">Описание</a></td>
-      <td></td>
+      <td><a href="contest2/problem_F.py">Решение</a></td>
     </tr>
     <tr>
       <td>G. Цензурное произведение</td>
       <td><a href="contest2/problem_G_description.pdf">Описание</a></td>
-      <td></td>
+      <td><a href="contest2/problem_G.py">Решение</a></td>
     </tr>
     <tr>
       <td>H. Переезд в опенспейс*</td>
       <td><a href="contest2/problem_H_description.pdf">Описание</a></td>
-      <td></td>
+      <td><a href="contest2/problem_H.py">Решение</a></td>
     </tr>
     <tr>
       <td>I. Изучение алгоритмов*</td>
       <td><a href="contest2/problem_I_description.pdf">Описание</a></td>
-      <td></td>
+      <td><a href="contest2/problem_I.py">Решение</a></td>
     </tr>
     <tr>
       <td>J. Решение задач*</td>
       <td><a href="contest2/problem_J_description.pdf">Описание</a></td>
-      <td></td>
+      <td><a href="contest2/problem_J.py">Решение</a></td>
     </tr>
   </tbody>
 </table>
