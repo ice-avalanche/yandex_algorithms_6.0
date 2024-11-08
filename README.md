@@ -106,6 +106,57 @@
       <td><a href="contest2/problem_J_description.pdf">Описание</a></td>
       <td><a href="contest2/problem_J.py">Решение</a></td>
     </tr>
+    <tr>
+      <td  rowspan=10><a href="contest3">Контест 3</a></td>
+      <td>A. Правильная скобочная последовательность</td>
+      <td><a href="contest3/problem_A_description.pdf">Описание</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>B. Великое Лайнландское переселение</td>
+      <td><a href="contest3/problem_B_description.pdf">Описание</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>C. Минимум на отрезке</td>
+      <td><a href="contest3/problem_C_description.pdf">Описание</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>D. Постфиксная запись</td>
+      <td><a href="contest3/problem_D_description.pdf">Описание</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>E. Значение арифметического выражения</td>
+      <td><a href="contest3/problem_E_description.pdf">Описание</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>F. Минимальная ПСП</td>
+      <td><a href="contest3/problem_F_description.pdf">Описание</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>G. Очередь в ПВЗ*</td>
+      <td><a href="contest3/problem_G_description.pdf">Описание</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>H. Стек с суммой*</td>
+      <td><a href="contest3/problem_H_description.pdf">Описание</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>I. Автоматизированный склад*</td>
+      <td><a href="contest3/problem_I_description.pdf">Описание</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>J. Кровать из стульев*</td>
+      <td><a href="contest3/problem_J_description.pdf">Описание</a></td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
 
