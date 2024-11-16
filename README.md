@@ -10,7 +10,7 @@
   - [Разбор задач второй лекции](https://www.youtube.com/live/T3-4f5SZy3Y)
 - Лекция 3:
   - [Лекция 3. Стеки, очереди, деки](https://www.youtube.com/live/km0E_i8Dtso)
-  - Разбор задач третьей лекции
+  - [Разбор задач третьей лекции](https://www.youtube.com/live/Fg5uDgPZDoo)
 - Лекция 4:
   - Лекция 4. Деревья, представления, обходы
   - Разбор задач четвертой лекции
@@ -110,52 +110,52 @@
       <td  rowspan=10><a href="contest3">Контест 3</a></td>
       <td>A. Правильная скобочная последовательность</td>
       <td><a href="contest3/problem_A_description.pdf">Описание</a></td>
-      <td></td>
+      <td><a href="contest3/problem_A.py">Решение</a></td>
     </tr>
     <tr>
       <td>B. Великое Лайнландское переселение</td>
       <td><a href="contest3/problem_B_description.pdf">Описание</a></td>
-      <td></td>
+      <td><a href="contest3/problem_B.py">Решение</a></td>
     </tr>
     <tr>
       <td>C. Минимум на отрезке</td>
       <td><a href="contest3/problem_C_description.pdf">Описание</a></td>
-      <td></td>
+      <td><a href="contest3/problem_C.py">Решение</a></td>
     </tr>
     <tr>
       <td>D. Постфиксная запись</td>
       <td><a href="contest3/problem_D_description.pdf">Описание</a></td>
-      <td></td>
+      <td><a href="contest3/problem_D.py">Решение</a></td>
     </tr>
     <tr>
       <td>E. Значение арифметического выражения</td>
       <td><a href="contest3/problem_E_description.pdf">Описание</a></td>
-      <td></td>
+      <td><a href="contest3/problem_E.py">Решение</a></td>
     </tr>
     <tr>
       <td>F. Минимальная ПСП</td>
       <td><a href="contest3/problem_F_description.pdf">Описание</a></td>
-      <td></td>
+      <td><a href="contest3/problem_F.py">Решение</a></td>
     </tr>
     <tr>
       <td>G. Очередь в ПВЗ*</td>
       <td><a href="contest3/problem_G_description.pdf">Описание</a></td>
-      <td></td>
+      <td><a href="contest3/problem_G.py">Решение</a></td>
     </tr>
     <tr>
       <td>H. Стек с суммой*</td>
       <td><a href="contest3/problem_H_description.pdf">Описание</a></td>
-      <td></td>
+      <td><a href="contest3/problem_H.py">Решение</a></td>
     </tr>
     <tr>
       <td>I. Автоматизированный склад*</td>
       <td><a href="contest3/problem_I_description.pdf">Описание</a></td>
-      <td></td>
+      <td><a href="contest3/problem_I.py">Решение</a></td>
     </tr>
     <tr>
       <td>J. Кровать из стульев*</td>
       <td><a href="contest3/problem_J_description.pdf">Описание</a></td>
-      <td></td>
+      <td><a href="contest3/problem_J.py">Решение</a></td>
     </tr>
   </tbody>
 </table>
