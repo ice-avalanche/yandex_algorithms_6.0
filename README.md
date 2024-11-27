@@ -12,10 +12,10 @@
   - [Лекция 3. Стеки, очереди, деки](https://www.youtube.com/live/km0E_i8Dtso)
   - [Разбор задач третьей лекции](https://www.youtube.com/live/Fg5uDgPZDoo)
 - Лекция 4:
-  - Лекция 4. Деревья, представления, обходы
-  - Разбор задач четвертой лекции
+  - [Лекция 4. Деревья, представления, обходы](https://www.youtube.com/live/O9ffppQ05-c)
+  - [Разбор задач четвертой лекции](https://www.youtube.com/live/P6SqATvWYpY)
 - МОК-интервью:
-  - МОК-интервью и его разбор
+  - [МОК-интервью и его разбор](https://www.youtube.com/live/rNieihJ5U18)
 
 <h3>🪄 Решения задач:</h3>
 
@@ -156,6 +156,57 @@
       <td>J. Кровать из стульев*</td>
       <td><a href="contest3/problem_J_description.pdf">Описание</a></td>
       <td><a href="contest3/problem_J.py">Решение</a></td>
+    </tr>
+    <tr>
+      <td  rowspan=10><a href="contest4">Контест 4</a></td>
+      <td>A. Родословная: подсчет уровней</td>
+      <td><a href="contest4/problem_A_description.pdf">Описание</a></td>
+      <td><a href="contest4/problem_A.py">Решение</a></td>
+    </tr>
+    <tr>
+      <td>B. Родословная: число потомков</td>
+      <td><a href="contest4/problem_B_description.pdf">Описание</a></td>
+      <td><a href="contest4/problem_B.py">Решение</a></td>
+    </tr>
+    <tr>
+      <td>C. Родословная: LCA</td>
+      <td><a href="contest4/problem_C_description.pdf">Описание</a></td>
+      <td><a href="contest4/problem_C.py">Решение</a></td>
+    </tr>
+    <tr>
+      <td>D. Бинарное дерево (вставка, поиск, обход)</td>
+      <td><a href="contest4/problem_D_description.pdf">Описание</a></td>
+      <td><a href="contest4/problem_D.py">Решение</a></td>
+    </tr>
+    <tr>
+      <td>E. Размер поддеревьев</td>
+      <td><a href="contest4/problem_E_description.pdf">Описание</a></td>
+      <td><a href="contest4/problem_E.py">Решение</a></td>
+    </tr>
+    <tr>
+      <td>F. Бюрократия</td>
+      <td><a href="contest4/problem_F_description.pdf">Описание</a></td>
+      <td><a href="contest4/problem_F.py">Решение</a></td>
+    </tr>
+    <tr>
+      <td>G. Дятлы</td>
+      <td><a href="contest4/problem_G_description.pdf">Описание</a></td>
+      <td><a href="contest4/problem_G.py">Решение</a></td>
+    </tr>
+    <tr>
+      <td>H. Вершинно-реберное покрытие дерева*</td>
+      <td><a href="contest4/problem_H_description.pdf">Описание</a></td>
+      <td><a href="contest4/problem_H.py">Решение</a></td>
+    </tr>
+    <tr>
+      <td>I. Пара путей*</td>
+      <td><a href="contest4/problem_I_description.pdf">Описание</a></td>
+      <td><a href="contest4/problem_I.py">Решение</a></td>
+    </tr>
+    <tr>
+      <td>J. Количество топсортов дерева*</td>
+      <td><a href="contest4/problem_J_description.pdf">Описание</a></td>
+      <td><a href="contest4/problem_J.py">Решение</a></td>
     </tr>
   </tbody>
 </table>
